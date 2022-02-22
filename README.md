@@ -5,8 +5,8 @@
 - 🌟 Estou atualmente estudando programação em PHP, HTML,MySQL e Python
 - 💜 Faço uso das IDE: Pycharm, Apache netBeans
 - ⭐️ Futuramente buscarei aprender javascript, CSS e C#
-- 🍁 Pronouns: Ele/Dele
-- 🍒 Fun fact: Gamer, "otaku" e que adora se comunicar em inglês com amigos do exterior
+- 🍁 Pronome: Ele/Dele
+- 🍒 Fatos divertidos: Gamer, "otaku" e que adora se comunicar em inglês com amigos do exterior
 - 💬 Meu e-mail pessoal: brunosch250@gmail.com
 
 | Carga Horária do curso Técnico em Desenvolvimento de Sistemas |
