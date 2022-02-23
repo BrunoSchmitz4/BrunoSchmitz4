@@ -3,7 +3,8 @@
 - 😸 Estou buscando aprender à desenvolver sites e jogos
 - 📚 Cursando Técnico em Desenvolvimento de Sistemas (carga horária mais abaixo)
 - 🌟 Estou atualmente estudando programação em PHP, HTML,MySQL e Python
-- 💜 Faço uso das IDE: Pycharm, Apache netBeans
+- 💜 Faço uso das IDE: Pycharm, Apache netBeans e visual code e visual code 2022
+- 💙 Outros programas, bem como engines são: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e
 - ⭐️ Futuramente buscarei aprender javascript, CSS e C#
 - 🍁 Pronome: Ele/Dele
 - 🍒 Fatos divertidos: Gamer que adora se comunicar em inglês com colegas de jogos.
