@@ -7,7 +7,7 @@
 - 💙 Outros programas, bem como engines são: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio
 - ⭐️ Futuramente buscarei aperfeiçoar C#
 - 🍁 Pronome: Ele/Dele
-- 🍒 Fatos divertidos: Gamer que adora se comunicar em inglês com colegas de jogos.
+- 🍒 Fatos divertidos: Gamer, Otaku, criador de conteúdo e dublador em horas de lazer <3
 - 💬 Meu e-mail pessoal: brunosch250@gmail.com
 
 | Carga Horária do curso Técnico em Desenvolvimento de Sistemas |
