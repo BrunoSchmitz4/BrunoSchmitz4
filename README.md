@@ -2,7 +2,7 @@
 
 - 😸 Estou buscando atualmente aprender à desenvolver sites e jogos, programas e softwares afins.);
 - 📚 Cursando Técnico em Desenvolvimento de Sistemas (carga horária mais abaixo)
-- 🌟 Estou atualmente estudando programação em PHP, CSS, HTML, Javascript, MySQL, Python e C#
+- 🌟 Estou atualmente estudando PHP, CSS, HTML, Javascript, MySQL, Python e C#
 - 💜 Faço uso das IDE: Pycharm, Apache netBeans e visual code e visual code 2022
 - 💙 Outros programas, bem como engines são: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio
 - ⭐️ Futuramente buscarei aperfeiçoar C#
