@@ -53,6 +53,5 @@
 ##
 <div>
   <a href=https://www.youtube.com/channel/UClCYZrKIBKOG5mvJrgtXoeA target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href=https://discord.gg/7GRWfEd7 target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:brunosch250@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
 </div>
