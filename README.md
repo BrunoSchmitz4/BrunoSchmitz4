@@ -1,14 +1,14 @@
 *| Oiee! Eu me chamo Bruno Schmitz da Silva! 🌺|*
 
 - 😸 Estou buscando atualmente aprender à desenvolver sites e jogos, programas e softwares afins.);
-- 📚 Cursando Técnico em Desenvolvimento de Sistemas (carga horária mais abaixo)
-- 🌟 Estou atualmente estudando PHP, CSS, HTML, Javascript, MySQL, Python e C#
-- 💜 Faço uso das IDE: Pycharm, Apache netBeans e visual code e visual code 2022
-- 💙 Outros programas, bem como engines são: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio
-- ⭐️ Futuramente buscarei aperfeiçoar C#
-- 🍁 Pronome: Ele/Dele
-- 🍒 Fatos divertidos: Gamer, Otaku, criador de conteúdo e dublador em horas de lazer <3
-- 💬 Meu e-mail pessoal: brunosch250@gmail.com
+- 📚 Cursando Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD, Fundamentos do C# (Entra21) (carga horária mais abaixo);
+- ⭐️ Estou atualmente estudando PHP, CSS, HTML, Javascript, MySQL, Python e C#;
+- 💜 Faço uso das IDE: Pycharm, Apache NetBeans, Visual Studio Code e Visual Studio 2022;
+- 💙 Outros programas, bem como engines são: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
+- 🍁 Pronome: Ele/Dele;
+- 🍒 Fatos divertidos: Gamer, Otaku, criador de conteúdo e dublador em horas de lazer <3;
+- 💬 Meu e-mail pessoal: brunosch250@gmail.com;
+- 💬 Outro e-mail, caso necessário: brunoschdev25@gmail.com;
 
 | Carga Horária do curso Técnico em Desenvolvimento de Sistemas |
 
@@ -31,6 +31,10 @@
 - Implantação de Sistemas (30h)
 - Manutenção de Sistemas (30h)
 
+| Carga Horária das Trilhas EAD (Entra21)|
+✏️ Primeito semestre (Cursando)
+- Fundamentos do C# (28h)
+- Obs: Ao finalizar Fundamentos do C#, pretendo iniciar algum curso relacionado à Python avançado, oferecido pelo Entra21 nas Trilhas EAD
 ##
 
 <div style="display: inline_block"><br>
