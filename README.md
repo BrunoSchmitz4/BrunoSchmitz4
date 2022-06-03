@@ -1,6 +1,6 @@
 *| Oiee! Eu me chamo Bruno Schmitz da Silva! 🌺|*
 
-- 😸 Estou buscando atualmente aprender à desenvolver sites e jogos, programas e softwares afins.);
+- 😸 Estou buscando atualmente aprender à desenvolver sites e jogos, programas e softwares afins.;
 - 📚 Cursando Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD, Fundamentos do C# (Entra21) (carga horária mais abaixo);
 - ⭐️ Estou atualmente estudando PHP, CSS, HTML, Javascript, MySQL, Python e C#;
 - 💜 Faço uso das IDE: Pycharm, Apache NetBeans, Visual Studio Code e Visual Studio 2022;
