@@ -1,10 +1,11 @@
 *| Oiee! Eu me chamo Bruno Schmitz da Silva! 🌺|*
 
 - 😸 Estou buscando atualmente aprender à desenvolver sites e jogos, programas e softwares afins.;
-- 📚 Recém formado Técnico em Desenvolvimento de Sistemas(SENAI) e  cursando Trilhas EAD, Fundamentos do C# (Entra21) (carga horária mais abaixo);
-- ⭐️ Estou atualmente estudando PHP, CSS3, HTML5, Javascript, SQL(MySQL), Python e C#;
-- 💜 Faço uso das IDE: Pycharm, Apache NetBeans, Visual Studio Code e Visual Studio 2022;
-- 💙 Outras engines, e programas: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
+- 📚 Formado Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD, Fundamentos do C# (Entra21) (carga horária mais abaixo);
+- ⭐️ Estou atualmente estudando: JavaScript, Angular, TypeScript e Angular;
+- 🟡 Já usei/uso: PHP, CSS3, HTML5, Javascript, SQL(MySQL), Python e C#;
+- 🟠Faço uso das IDE: Pycharm, Apache NetBeans, Visual Studio Code e Visual Studio 2022;
+- 🔴 Outras engines, e programas: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
 - 🍁 Pronome: Ele/Dele;
 - 🍒 Fatos divertidos: Gamer, Otaku e criador de conteúdo;
 - 💬 Meu e-mail pessoal: brunosch250@gmail.com;
