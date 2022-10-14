@@ -1,4 +1,4 @@
-*| Oiee! Eu me chamo Bruno Schmitz da Silva! 🌺|*
+*| Prazer em te conhecer, Eu me chamo Bruno Schmitz da Silva! 🌺|*
 
 - 😸 Estou buscando atualmente aprender à desenvolver com tecnologias, tanto front-end, quanto back-end
 - 📚 Formado em: Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD "Fundamentos do C# (Entra21)", (carga horária mais abaixo);
@@ -56,7 +56,7 @@
 <div align="left">
   <a href="https://github.com/brunoschmitz4">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoschmitz4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoschmitz4&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoschmitz4&layout=compact&langs_count=12&theme=dracula"/>
 </div>
 
 ##
