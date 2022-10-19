@@ -25,7 +25,7 @@
 - Programação de Aplicativos (160h)
 
 
-✔️ Terceiro semestre (Cursando)
+✔️ Terceiro semestre (Concluído)
 - Desenvolvimento de Sistemas (160h)
 - Modelagem de Sistemas (80h)
 - Testes de Sistemas (60h)
@@ -33,7 +33,7 @@
 - Manutenção de Sistemas (30h)
 
 | Carga Horária das Trilhas EAD (Entra21)|
-✔️ Primeito semestre (Cursando)
+✔️ Primeito semestre (Concluído)
 - Fundamentos do C# (28h)
 - Obs: Ao finalizar Fundamentos do C#, pretendo iniciar algum curso relacionado à Python avançado, oferecido pelo Entra21 nas Trilhas EAD
 ##
