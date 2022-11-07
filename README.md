@@ -32,11 +32,8 @@
 - Implantação de Sistemas (30h)
 - Manutenção de Sistemas (30h)
 
-| Carga Horária das Trilhas EAD (Entra21)|
-✔️ Primeito semestre (Concluído)
-- Fundamentos do C# (28h)
-- Obs: Ao finalizar Fundamentos do C#, pretendo iniciar algum curso relacionado à Python avançado, oferecido pelo Entra21 nas Trilhas EAD
-##
+| Carga Horária das Trilhas EAD 
+- Fundamentos do C# (28h) (Concluído Entra2)
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
