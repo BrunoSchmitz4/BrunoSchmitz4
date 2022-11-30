@@ -2,13 +2,13 @@
 
 - 😸 Estou buscando atualmente aprender à desenvolver com tecnologias, tanto front-end, quanto back-end
 - 📚 Formado em: Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD "Fundamentos do C# (Entra21)", (carga horária mais abaixo);
-- ⭐️ Estou atualmente estudando: JavaScript, TypeScript e Git;
-- ⭐️ Além disso, estou aprendendo/me aperfeiçoando em: Angular, React JS, Next JS e styled-component
-- 🟡 Já usei/uso estas tecnologias: PHP, CSS3, HTML5, Javascript, SQL(MySQL), Python e C#;
+- ⭐️ Atualmente estudando: JS, TS, Git e Angular;
+- ⭐️ Possivelmente estudando em breve: Ionic, NestJS, NextJS, ReactJS, Docker;
+- 🟡 Já usei/uso estas tecnologias: PHP, CSS3, HTML5, JS, SQL(MySQL), Python e C#;
 - 🟠 Já usei/uso estas IDEs: Pycharm, Apache NetBeans, Visual Studio Code e Visual Studio 2022;
 - 🔴 Outras engines, e/ou programas: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
 - 🍁 Pronome: Ele/Dele;
-- 🍒 Fatos divertidos: Gamer, Otaku e criador de conteúdo;
+- 🍒 Fatos divertidos: Gamer e Otaku;
 - 💬 Meu e-mail pessoal: brunosch250@gmail.com;
 - 💬 Outro e-mail, caso necessário: brunoschdev25@gmail.com;
 
