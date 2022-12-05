@@ -3,7 +3,7 @@
 - 😸 Estou buscando atualmente aprender à desenvolver com tecnologias, tanto front-end, quanto back-end
 - 📚 Formado em: Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD "Fundamentos do C# (Entra21)", (carga horária mais abaixo);
 - ⭐️ Atualmente estudando: JS, TS, Git e Angular;
-- ⭐️ Possivelmente estudando em breve: Ionic, NestJS, NextJS, ReactJS, Docker;
+- ⭐️ Possivelmente estudando em breve: Ionic, NodeJS, NestJS, NextJS, ReactJS, Docker;
 - 🟡 Já usei/uso estas tecnologias: PHP, CSS3, HTML5, JS, SQL(MySQL), Python e C#;
 - 🟠 Já usei/uso estas IDEs: Pycharm, Apache NetBeans, Visual Studio Code e Visual Studio 2022;
 - 🔴 Outras engines, e/ou programas: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
