@@ -1,14 +1,13 @@
-*| Prazer em te conhecer, Eu me chamo Bruno Schmitz da Silva! 🌺|*
+*| Prazer em te conhecer! |*
 
-- 😸 Estou buscando atualmente aprender à desenvolver com tecnologias, tanto front-end, quanto back-end
-- 📚 Formado em: Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD "Fundamentos do C# (Entra21)", (carga horária mais abaixo);
+- 😸 Estou atualmente aprendendo à utilizar tecnologias front-end e back-end
+- 📚 Formado em: Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD "Fundamentos do C# (Entra21)" (carga horária abaixo);
 - ⭐️ Atualmente estudando: JS, TS, Git e Angular;
-- ⭐️ Possivelmente estudando em breve: Ionic, NodeJS, NestJS, NextJS, ReactJS, Docker;
+- ⭐️ Vou começar a estudar: NodeJS, Express, NestJS, ReactJS, Docker;
 - 🟡 Já usei/uso estas tecnologias: PHP, CSS3, HTML5, JS, SQL(MySQL), Python e C#;
 - 🟠 Já usei/uso estas IDEs: Pycharm, Apache NetBeans, Visual Studio Code e Visual Studio 2022;
 - 🔴 Outras engines, e/ou programas: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
 - 🍁 Pronome: Ele/Dele;
-- 🍒 Fatos divertidos: Gamer e Otaku;
 - 💬 Meu e-mail pessoal: brunosch250@gmail.com;
 - 💬 Outro e-mail, caso necessário: brunoschdev25@gmail.com;
 
