@@ -1,11 +1,11 @@
 *| Prazer em te conhecer! |*
 
-- 😸 Estou atualmente aprendendo à utilizar tecnologias front-end e back-end
-- 📚 Formado em: Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD "Fundamentos do C# (Entra21)" (carga horária abaixo);
-- ⭐️ Atualmente estudando: JS, TS, Git e Angular;
-- ⭐️ Vou começar a estudar: NodeJS, Express, NestJS, ReactJS, Docker;
-- 🟡 Já usei/uso estas tecnologias: PHP, CSS3, HTML5, JS, SQL(MySQL), Python e C#;
-- 🟠 Já usei/uso estas IDEs: Pycharm, Apache NetBeans, Visual Studio Code e Visual Studio 2022;
+- 😸 Aprendendo a usar tanto front-end quanto back-end
+- 📚 Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD "Fundamentos do C# (Entra21)" (carga horária abaixo);
+- ⭐️ Estudanto: Node JS, JavaScript, Nodemon, Sequelize, Handlebars, Express JS e MySQL
+- ⭐️ Futuramente: NestJS, ReactJS e Docker;
+- 🟡 Já usei: PHP, C#, Visual Studio 2022, Apache NetBeans  e C#;
+- 🟠 Usando: Pycharm, Visual Studio Code, CSS3, HTML5, JS, SQL(MySQL), Python;
 - 🔴 Outras engines, e/ou programas: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
 - 🍁 Pronome: Ele/Dele;
 - 💬 Meu e-mail pessoal: brunosch250@gmail.com;
@@ -19,11 +19,9 @@
 - Fundamentos da Técnologia da Informação (40h)
 - Informática Aplicada (80h)
 
-
 ✔️ Segundo semestre (Concluído)
 - Banco de dados (140h)
 - Programação de Aplicativos (160h)
-
 
 ✔️ Terceiro semestre (Concluído)
 - Desenvolvimento de Sistemas (160h)
