@@ -2,10 +2,10 @@
 
 - 😸 Aprendendo a usar tanto front-end quanto back-end
 - 📚 Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD "Fundamentos do C# (Entra21)" (carga horária abaixo);
-- ⭐️ Estudanto: Lua 
-- ⭐️ Futuramente: NestJS, ReactJS, Docker, Node JS, Nodemon, Sequelize, Handlebars e Express JS;
-- 🟡 Já usei: PHP, C#, Visual Studio 2022, Apache NetBeans, C# e Python;
-- 🟠 Usando: Visual Studio Code, CSS3, HTML5, JS, SQL(MySQL) e Lua;
+- ⭐️ Estudanto: Lua e Ionic
+<!-- - ⭐️ Futuramente: ; -->
+- 🟡 Já usei: PHP, C#, Visual Studio 2022, Apache NetBeans, C#, SQL(MySQL), Python, Handlebars, Express JS, Sequelize, Nodemonm, Node JS;
+- 🟠 Usando: VS Code, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular e Lua;
 - 🔴 Outras engines, e/ou programas: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
 - 🍁 Pronome: Ele/Dele;
 - 💬 Meu e-mail pessoal: brunosch250@gmail.com;
