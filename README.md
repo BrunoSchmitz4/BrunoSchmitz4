@@ -2,8 +2,8 @@
 
 - 😸 Aprendendo a usar tanto front-end quanto back-end
 - 📚 Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD "Fundamentos do C# (Entra21)" (carga horária abaixo);
-- ⭐️ Estudanto: Lua e Ionic
-<!-- - ⭐️ Futuramente: ; -->
+- ⭐️ Estudanto: C#, Angular, Ionic e TypeScript
+<!-- - ⭐️ Futuramente: Lua; -->
 - 🟡 Já usei: PHP, C#, Visual Studio 2022, Apache NetBeans, C#, SQL(MySQL), Python, Handlebars, Express JS, Sequelize, Nodemonm, Node JS;
 - 🟠 Usando: VS Code, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular e Lua;
 - 🔴 Outras engines, e/ou programas: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
@@ -44,6 +44,8 @@
    <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 </div>
 
 ##
