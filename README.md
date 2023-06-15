@@ -1,10 +1,10 @@
 *| Prazer em te conhecer! |*
 
-- 😸 Aprendendo a usar tanto front-end quanto back-end
-- 📚 Técnico em Desenvolvimento de Sistemas(SENAI) e Trilhas EAD "Fundamentos do C# (Entra21)" (carga horária abaixo);
+- 😸 Tornando-me full-stack aos poucos;
+- 📚 Técnico em Desenvolvimento de Sistemas(SENAI), Entra21 "Fundamentos do C#" e ADS na Uniasselvi (carga horária abaixo);
 - ⭐️ Estudanto: C#, Angular, Ionic e TypeScript
 <!-- - ⭐️ Futuramente: Lua; -->
-- 🟡 Já usei: PHP, C#, Visual Studio 2022, Apache NetBeans, C#, SQL(MySQL), Python, Handlebars, Express JS, Sequelize, Nodemonm, Node JS;
+- 🟡 Já usei: PHP, C#, Visual Studio 2022, Apache NetBeans, C#, SQL(MySQL), Python, Handlebars, Express JS, Sequelize, Nodemon, Node JS;
 - 🟠 Usando: VS Code, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular e Lua;
 - 🔴 Outras engines, e/ou programas: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
 - 🍁 Pronome: Ele/Dele;
