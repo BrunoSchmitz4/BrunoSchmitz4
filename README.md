@@ -4,8 +4,8 @@
 - 📚 Técnico em Desenvolvimento de Sistemas(SENAI), Entra21 "Fundamentos do C#" e ADS na Uniasselvi (carga horária abaixo);
 - ⭐️ Estudando: C#, Angular, Ionic e TypeScript
 <!-- - ⭐️ Futuramente: Lua; -->
-- 🟡 Já usei: PHP, C#, Visual Studio 2022, Apache NetBeans, C#, SQL(MySQL), Python, Handlebars, Express JS, Sequelize, Nodemon, Node JS;
-- 🟠 Usando: VS Code, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular e Lua;
+- 🟡 Já usei: PHP, Apache NetBeans, SQL(MySQL), Python, Handlebars, Express JS, Sequelize, Nodemon, Node JS;
+- 🟠 Usando: VS Code e VS Studio, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular, Lua e C#;
 - 🔴 Outras engines, e/ou programas: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
 - 🍁 Pronome: Ele/Dele;
 - 💬 Meu e-mail pessoal: brunosch250@gmail.com;
