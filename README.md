@@ -7,7 +7,7 @@
 - 🟡 Já usei: PHP, Apache NetBeans, SQL(MySQL), Python, Handlebars, Express JS, Sequelize, Nodemon, Node JS;
 - 🟠 Usando: VS Code e VS Studio, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular, Lua e C#;
 - 🔴 Outras engines, e/ou programas: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
-- 🍁 Pronome: Ele/Dele;
+<!-- - 🍁 Pronome: Ele/Dele; -->
 - 💬 Meu e-mail pessoal: brunosch250@gmail.com;
 - 💬 Outro e-mail, caso necessário: brunoschdev25@gmail.com;
 
