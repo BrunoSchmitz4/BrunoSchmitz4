@@ -1,16 +1,29 @@
 <h1 align="center">| ~ ° Prazer em te conhecer! ° ~ |</h1>
 
-- 😸 <b>Tornando-me full-stack aos poucos;</b>
-- 📚 Técnico em Desenvolvimento de Sistemas(SENAI), Entra21 "Fundamentos do C#" e ADS na Uniasselvi (carga horária abaixo);
-- ⭐️ <b>Estudando:</b> C#, Angular, Ionic e TypeScript
-<!-- - ⭐️ Futuramente: Lua; -->
-- 🟡 <b>Já usei:</b> PHP, Apache NetBeans, SQL(MySQL), Python, Handlebars, Express JS, Sequelize, Nodemon, Node JS;
-- 🟠 <b>Usando:</b> VS Code e VS Studio, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular, Lua e C#;
-- 🔴 <b>Outras engines, e/ou programas:</b> MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
-<!-- - 🍁 Pronome: Ele/Dele; -->
-- 💬 Meu e-mail pessoal: brunosch250@gmail.com;
-- 💬 Outro e-mail, caso necessário: brunoschdev25@gmail.com;
-  
+<hr>
+
+<div>
+  <p>😸 <b>Tornando-me full-stack aos poucos;</b></p>
+  <p>📚 Técnico em Desenvolvimento de Sistemas(SENAI), Entra21 "Fundamentos do C#" e ADS na Uniasselvi (carga horária abaixo);</p>
+  <p>⭐️ <b>Estudando:</b> C#, TypeScript, Angular, Ionic e SQL(MySQL);</p>
+  <!--<p>⭐️ Futuramente: Lua;</p>-->
+  <p>🟡 <b>Já usei:</b> PHP, Apache NetBeans, Python, Handlebars, Express JS, Sequelize, Nodemon, Node JS;</p>
+  <p>🟠 <b>Usando:</b> VS Code e VS Studio, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular, Lua e C#;</p>
+  <p>🔴 <b>Outras engines, e/ou programas:</b> MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;</p>
+  <!--<p>🍁 Pronome: Ele/Dele;</p>-->
+</div>
+
+##
+
+<div>
+  <p>💬 <b>Meu e-mail pessoal:</b> brunosch250@gmail.com;</p>
+  <p>💬 <b>Outro e-mail, caso necessário:</b> brunoschdev25@gmail.com;</p>
+  <div align= "center">
+    <a href=https://www.youtube.com/channel/UClCYZrKIBKOG5mvJrgtXoeA target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="mailto:brunosch250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+</div>
+
 <hr>
 
 | Carga Horária do curso Técnico em Desenvolvimento de Sistemas |
@@ -50,7 +63,7 @@
 
 <hr>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -74,8 +87,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSchmitz4&layout=compact&langs_count=10&theme=midnight-purple"/>
 </div>
 
-##
-<div align= "center">
-  <a href=https://www.youtube.com/channel/UClCYZrKIBKOG5mvJrgtXoeA target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunosch250@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
-</div>
+<hr>
