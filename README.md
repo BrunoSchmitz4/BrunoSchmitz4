@@ -10,28 +10,45 @@
 <!-- - 🍁 Pronome: Ele/Dele; -->
 - 💬 Meu e-mail pessoal: brunosch250@gmail.com;
 - 💬 Outro e-mail, caso necessário: brunoschdev25@gmail.com;
+  
+<hr>
 
 | Carga Horária do curso Técnico em Desenvolvimento de Sistemas |
+<div align="center" display="flex">
+  <div align="start">
+    <ul style="list-style-type: none">
+      ✔️ Primeiro semestre (Concluído)
+      <li>Fundamentos da Técnologia da Informação (40h)</li>
+      <li>Lógica de programação (160h)</li>
+      <li>Informática Aplicada (80h)</li>
+      <li>Comunicação Oral Escrita (60h)</li>
+    </ul>
+  </div>
+  <div align="start">
+    <ul>
+      ✔️ Segundo semestre (Concluído)
+      <li>Banco de dados (140h)</li>
+      <li>Programação de Aplicativos (160h)</li>
+    </ul>
+  </div>
+  <div align="start">
+    <ul>
+      ✔️ Terceiro semestre (Concluído)
+      <li>Desenvolvimento de Sistemas (160h)</li>
+      <li>Modelagem de Sistemas (80h)</li>
+      <li>Testes de Sistemas (60h)</li>
+      <li>Implantação de Sistemas (30h)</li>
+      <li>Manutenção de Sistemas (30h)</li>
+    </ul>
+  </div>
+</div>
 
-✔️ Primeiro semestre (Concluído)
-- Lógica de programação (160h)
-- Comunicação Oral Escrita (60h)
-- Fundamentos da Técnologia da Informação (40h)
-- Informática Aplicada (80h)
+##
 
-✔️ Segundo semestre (Concluído)
-- Banco de dados (140h)
-- Programação de Aplicativos (160h)
+| Carga Horária das Trilhas EAD Entra21 (Concluído)|
+- ✔️ Fundamentos do C# (28h) 
 
-✔️ Terceiro semestre (Concluído)
-- Desenvolvimento de Sistemas (160h)
-- Modelagem de Sistemas (80h)
-- Testes de Sistemas (60h)
-- Implantação de Sistemas (30h)
-- Manutenção de Sistemas (30h)
-
-| Carga Horária das Trilhas EAD Entra21 |
-- Fundamentos do C# (28h) (Concluído)
+<hr>
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
