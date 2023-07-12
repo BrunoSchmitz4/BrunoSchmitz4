@@ -13,15 +13,30 @@
   <!--<p>🍁 Pronome: Ele/Dele;</p>-->
 </div>
 
+<hr>
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+</div>
+
 ##
 
-<div>
-  <p>💬 <b>Meu e-mail pessoal:</b> brunosch250@gmail.com;</p>
-  <p>💬 <b>Outro e-mail, caso necessário:</b> brunoschdev25@gmail.com;</p>
-  <div align= "center">
-    <a href=https://www.youtube.com/channel/UClCYZrKIBKOG5mvJrgtXoeA target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="mailto:brunosch250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+<div align="center">
+  <a href="https://github.com/brunoschmitz4">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoSchmitz4&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<!--No IMG abaixo é alterado também o número de linguagens que aparecem, neste caso é 10-->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSchmitz4&layout=compact&langs_count=10&theme=midnight-purple"/>
 </div>
 
 <hr>
@@ -63,28 +78,17 @@
 
 <hr>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-</div>
+<div>
+  <h3 align="center">Entre em contato comigo por estes emails: </h3>
+  <p>💬 <b>Meu e-mail pessoal:</b> brunosch250@gmail.com;</p>
+  <p>💬 <b>Outro e-mail, caso necessário:</b> brunoschdev25@gmail.com;</p>
 
 ##
-
-<div align="center">
-  <a href="https://github.com/brunoschmitz4">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoSchmitz4&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<!--No IMG abaixo é alterado também o número de linguagens que aparecem, neste caso é 10-->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSchmitz4&layout=compact&langs_count=10&theme=midnight-purple"/>
+  
+  <div align= "center">
+    <a href=https://www.youtube.com/channel/UClCYZrKIBKOG5mvJrgtXoeA target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="mailto:brunosch250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
 </div>
 
 <hr>
