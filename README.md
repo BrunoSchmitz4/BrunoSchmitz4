@@ -1,12 +1,12 @@
-*| Prazer em te conhecer! |*
+<h1 align="center">Prazer em te conhecer!</h1>
 
-- 😸 Tornando-me full-stack aos poucos;
+- 😸 <b>Tornando-me full-stack aos poucos;</b>
 - 📚 Técnico em Desenvolvimento de Sistemas(SENAI), Entra21 "Fundamentos do C#" e ADS na Uniasselvi (carga horária abaixo);
-- ⭐️ Estudando: C#, Angular, Ionic e TypeScript
+- ⭐️ <b>Estudando:</b> C#, Angular, Ionic e TypeScript
 <!-- - ⭐️ Futuramente: Lua; -->
-- 🟡 Já usei: PHP, Apache NetBeans, SQL(MySQL), Python, Handlebars, Express JS, Sequelize, Nodemon, Node JS;
-- 🟠 Usando: VS Code e VS Studio, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular, Lua e C#;
-- 🔴 Outras engines, e/ou programas: MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
+- 🟡 <b>Já usei:</b> PHP, Apache NetBeans, SQL(MySQL), Python, Handlebars, Express JS, Sequelize, Nodemon, Node JS;
+- 🟠 <b>Usando:</b> VS Code e VS Studio, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular, Lua e C#;
+- 🔴 <b>Outras engines, e/ou programas:</b> MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;
 <!-- - 🍁 Pronome: Ele/Dele; -->
 - 💬 Meu e-mail pessoal: brunosch250@gmail.com;
 - 💬 Outro e-mail, caso necessário: brunoschdev25@gmail.com;
@@ -50,7 +50,7 @@
 
 ##
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/brunoschmitz4">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoSchmitz4&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <!--No IMG abaixo é alterado também o número de linguagens que aparecem, neste caso é 10-->
@@ -58,7 +58,7 @@
 </div>
 
 ##
-<div>
+<div align= "center">
   <a href=https://www.youtube.com/channel/UClCYZrKIBKOG5mvJrgtXoeA target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunosch250@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
 </div>
