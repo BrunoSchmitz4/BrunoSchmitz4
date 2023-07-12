@@ -1,4 +1,4 @@
-<h1 align="center">Prazer em te conhecer!</h1>
+<h1 align="center">| ~ ° Prazer em te conhecer! ° ~ |</h1>
 
 - 😸 <b>Tornando-me full-stack aos poucos;</b>
 - 📚 Técnico em Desenvolvimento de Sistemas(SENAI), Entra21 "Fundamentos do C#" e ADS na Uniasselvi (carga horária abaixo);
