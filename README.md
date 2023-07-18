@@ -4,7 +4,7 @@
 
 <div>
   <p>😸 <b>Tornando-me full-stack aos poucos;</b></p>
-  <p>📚 Técnico em Desenvolvimento de Sistemas(SENAI), Entra21 "Fundamentos do C#" e ADS na Uniasselvi (carga horária abaixo);</p>
+  <p>📚  <!--Cursando 1° semestre de Engenharia de Software na UDESC | -->Técnico em Desenvolvimento de Sistemas(SENAI) | Entra21 "Fundamentos do C#" e ADS na Uniasselvi (carga horária abaixo);</p>
   <p>⭐️ <b>Estudando:</b> C#, TypeScript, Angular, Ionic e SQL(MySQL);</p>
   <!--<p>⭐️ Futuramente: Lua;</p>-->
   <p>🟡 <b>Já usei:</b> PHP, Apache NetBeans, Python, Handlebars, Express JS, Sequelize, Nodemon, Node JS;</p>
