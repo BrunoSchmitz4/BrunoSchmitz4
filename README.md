@@ -34,9 +34,9 @@
 
 <div align="center">
   <a href="https://github.com/brunoschmitz4">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoSchmitz4&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BrunoSchmitz4&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <!--No IMG abaixo é alterado também o número de linguagens que aparecem, neste caso é 10-->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSchmitz4&layout=compact&langs_count=12&theme=midnight-purple"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSchmitz4&layout=compact&langs_count=12&theme=midnight-purple"/>
 </div>
 
 <hr>
