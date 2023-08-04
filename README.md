@@ -7,8 +7,8 @@
   <p>📚  Cursando <strong>1° semestre de Engenharia de Software na UDESC</strong> | Técnico em Desenvolvimento de Sistemas(SENAI) | Entra21 "Fundamentos do C#" |</p>
   <p>⭐️ <b>Estudando:</b> Java, TypeScript, Angular, Ionic e SQL(MySQL);</p>
   <!--<p>⭐️ Futuramente: Lua;</p>-->
-  <p>🟡 <b>Já usei:</b> PHP, Apache NetBeans, Python, Handlebars, Express JS, Sequelize, Nodemon, Node JS;</p>
-  <p>🟠 <b>Usando:</b> VS Code e VS Studio, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular, Lua e C#;</p>
+  <p>🟡 <b>Já usei:</b> PHP, Python, JS, Handlebars, Express JS, Sequelize, Nodemon, Node JS, Apache NetBeans;</p>
+  <p>🟠 <b>Usando:</b> VS Code e VS Studio, Eclipse, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular, Lua e C#;</p>
   <p>🔴 <b>Outras engines, e/ou programas:</b> MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;</p>
   <!--<p>🍁 Pronome: Ele/Dele;</p>-->
 </div>
