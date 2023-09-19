@@ -9,7 +9,7 @@
   <p>⭐️ <b>Estudando:</b> Java, TypeScript, Angular, Ionic e prototipagem de telas (Figma/Canvas);</p>
   <!--<p>⭐️ Futuramente: Lua;</p>-->
   <p>🟡 <b>Já usei:</b> PHP, Python, JS, Handlebars, Express JS, Sequelize, Nodemon, Node JS, Apache NetBeans;</p>
-  <p>🟠 <b>Usando:</b> VS Code e VS Studio, Eclipse, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular, Lua, C# e SQL(MySQL);</p>
+  <p>🟠 <b>Usando:</b> Figma, VS Code e VS Studio, Eclipse, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular, Lua, C# e SQL(MySQL);</p>
   <p>🔴 <b>Outras engines, e/ou programas:</b> MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;</p>
 </div>
 
