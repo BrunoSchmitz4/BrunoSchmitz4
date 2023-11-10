@@ -3,7 +3,7 @@
 <hr>
 
 <div>
-  <p>😸 <b>Tornando-me full-stack aos poucos;</b></p>
+  <p><b>Tornando-me full-stack aos poucos;</b></p>
   <p>📚  Cursando <strong>1° semestre de Engenharia de Software (UDESC)</strong> | Técnico em Desenvolvimento de Sistemas (SENAI) | Fundamentos do C# (Entra21) |</p>
   <p>💼 Desenvolvedor Web (freelancer) na <strong>CodeWhile</strong> e & Desenvolvedor Web (estágio) na <strong>Operacional</strong></p>
   <p>⭐️ <b>Estudando:</b> Java, TypeScript, Angular, Ionic e prototipagem de telas (Figma/Canvas);</p>
