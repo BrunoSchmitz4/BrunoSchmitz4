@@ -42,6 +42,19 @@
 
 <hr>
 
+| Carga Horária da faculdade Engenharia de Software |
+<div align="center" display="flex">
+  <div align="start">
+    <ul style="list-style-type: none">
+      ✔️ Primeiro semestre (Concluído) (Obs: Área do conhecimento: Ciência da Computação & Matemática)
+      <li>Introdução ao Desenvolvimento de Software e Testes (288h)</li>
+      <li>Fundamentos da Engenharia de Software (72h)</li>
+      <li>Tópicos em Matemática Básica e Lógica Matemática (72h)</li>
+      <li>Processos (72h)</li>
+    </ul>
+  </div>
+</div>
+
 | Carga Horária do curso Técnico em Desenvolvimento de Sistemas |
 <div align="center" display="flex">
   <div align="start">
