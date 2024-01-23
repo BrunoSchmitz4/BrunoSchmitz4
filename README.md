@@ -4,8 +4,8 @@
 
 <div>
   <p><b>Tornando-me full-stack aos poucos;</b></p>
-  <p>📚  Cursando <strong>2° semestre de Engenharia de Software (UDESC)</strong> | Técnico em Desenvolvimento de Sistemas (SENAI) | Fundamentos do C# (Entra21) |</p>
-  <p>💼 Desenvolvedor Web (freelancer) na <strong>CodeWhile</strong> e & Desenvolvedor Web (estágio) na <strong>Operacional;</strong></p>
+  <p>📚 Cursando <strong>2° semestre de Engenharia de Software (UDESC)</strong> | Técnico em Desenvolvimento de Sistemas (SENAI) | Fundamentos do C# (Entra21) |</p>
+  <p>💼 Desenvolvedor Full-Stack Web (estágio) na <strong>Operacional</strong>;</p>
   <p>⭐️ <b>Estudando:</b> Java, TypeScript, Angular, Ionic e prototipagem de telas (ux/ui) (Figma/Canvas);</p>
   <!--<p>⭐️ Futuramente: Lua;</p>-->
   <p>🟡 <b>Já usei:</b> PHP, Python, JS, Handlebars, Express JS, Sequelize, Nodemon, Node JS, Apache NetBeans, SQL(MySQL);</p>
