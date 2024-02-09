@@ -58,7 +58,7 @@
 <div align="center" display="flex">
   <div align="start">
     <ul style="list-style-type: none">
-      <b>✔️ Primeiro semestre (Concluído) (Obs: Área de conhecimento: Ciência da Computação & Matemática)</b>
+      <b>Primeiro semestre ✔️ (Concluído) (Obs: Área de conhecimento: Ciência da Computação & Matemática)</b>
       <li>Introdução ao Desenvolvimento de Software e Testes (288h)</li>
       <li>Fundamentos da Engenharia de Software (72h)</li>
       <li>Tópicos em Matemática Básica e Lógica Matemática (72h)</li>
@@ -71,7 +71,7 @@
 <div align="center" display="flex">
   <div align="start">
     <ul style="list-style-type: none">
-      ✔️ Primeiro semestre (Concluído)
+      Primeiro semestre ✔️ (Concluído)
       <li>Fundamentos da Técnologia da Informação (40h)</li>
       <li>Lógica de programação (160h)</li>
       <li>Informática Aplicada (80h)</li>
@@ -80,14 +80,14 @@
   </div>
   <div align="start">
     <ul>
-      ✔️ Segundo semestre (Concluído)
+      Segundo semestre ✔️ (Concluído)
       <li>Banco de dados (140h)</li>
       <li>Programação de Aplicativos (160h)</li>
     </ul>
   </div>
   <div align="start">
     <ul>
-      ✔️ Terceiro semestre (Concluído)
+      Terceiro semestre ✔️ (Concluído)
       <li>Desenvolvimento de Sistemas (160h)</li>
       <li>Modelagem de Sistemas (80h)</li>
       <li>Testes de Sistemas (60h)</li>
