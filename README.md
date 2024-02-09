@@ -3,7 +3,7 @@
 <hr>
 
 <div>
-  <p><b>Tornando-me full-stack aos poucos;</b></p>
+  <p><b>Um jovem desenvolvedor que busca ser full-stack, curto gatos (mesmo tendo alergia), midnight karaoke (canto muito mal) e Pokémon</b></p>
   <p>📚 Cursando <strong>2° semestre de Engenharia de Software (UDESC)</strong> | Técnico em Desenvolvimento de Sistemas (SENAI) | Fundamentos do C# (Entra21) |</p>
   <p>💼 Estágio Desenvolvedor Web Front-End (também fuço no back-end e no banco de dados! :D) (estágio) na <strong>Operacional</strong>;</p>
   <p>⭐️ <b>Estudando:</b> Java, TypeScript, Angular, Ionic e prototipagem de telas (ux/ui) (Figma/Canvas);</p>
