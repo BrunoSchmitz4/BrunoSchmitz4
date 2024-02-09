@@ -46,7 +46,19 @@
 <div align="center" display="flex">
   <div align="start">
     <ul style="list-style-type: none">
-      ✔️ Primeiro semestre (Concluído) (Obs: Área de conhecimento: Ciência da Computação & Matemática)
+      <b>Segundo semestre</b>
+      <li>Modelagem de Dados (72h)</li>
+      <li>Comunicação e Metodologia de Pesquisa em Engenharia de Software (72h)</li>
+      <li>Desenvolvimento de Software Orientado a Objetos I (72h)</li>
+      <li>Infraestruturas Computacionais (72h)</li>
+      <li>Requisitos de Software (72h)</li>
+    </ul>
+  </div>
+</div>
+<div align="center" display="flex">
+  <div align="start">
+    <ul style="list-style-type: none">
+      <b>✔️ Primeiro semestre (Concluído) (Obs: Área de conhecimento: Ciência da Computação & Matemática)</b>
       <li>Introdução ao Desenvolvimento de Software e Testes (288h)</li>
       <li>Fundamentos da Engenharia de Software (72h)</li>
       <li>Tópicos em Matemática Básica e Lógica Matemática (72h)</li>
