@@ -3,7 +3,7 @@
 <hr>
 
 <div>
-  <p><b>Um jovem desenvolvedor que busca ser full-stack, curto gatos (mesmo tendo alergia), midnight karaoke (canto muito mal) e Pokémon (gotta catch 'em alL!); Também sou criador de conteúdo digital no Youtube!</b></p>
+  <p><b>Um jovem desenvolvedor que busca ser full-stack e é apaixonado por desenvolvimento de jogos e pelo universo Pokémon. Também sou criador de conteúdo digital no Youtube!</b></p>
   <p>📚 Cursando <strong>2° semestre de Engenharia de Software (UDESC)</strong> | Técnico em Desenvolvimento de Sistemas (SENAI) | Fundamentos do C# (Entra21) |</p>
   <p>💼 Estágio Desenvolvedor Web Front-End (também fuço no back-end e no banco de dados! :D) (estágio) na <strong>Operacional</strong>;</p>
   <p>⭐️ <b>Estudando:</b> Java, TypeScript, Angular, Ionic e prototipagem de telas (ux/ui) (Figma/Canvas);</p>
