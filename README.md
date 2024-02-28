@@ -4,7 +4,7 @@
 
 <div>
   <p><b>I'm a web developer who love game development and Pokemon universe. I'm also a YouTube content creator!</b></p>
-  <p>📚 Studying <strong>(2° semester) Software Engineer at UDESC</strong> | System Development Technician at (SENAI) | C# Basics at Entra21 |</p>
+  <p>📚 Studying <strong>(2° semester) Software Engineering at UDESC</strong> | System Development Technician at (SENAI) | C# Basics at Entra21 |</p>
   <p>💼 Web developer (Internship) at <strong>Operacional</strong>;</p>
   <p>⭐️ <b>Studying:</b> Java, TypeScript, Angular, Ionic and prototipagem de telas (ux/ui) (Figma/Canvas);</p>
   <!--<p>⭐️ Futuramente: Lua;</p>-->
