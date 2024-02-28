@@ -1,16 +1,16 @@
-<h1 align="center">| ~ ° Prazer em te conhecer! ° ~ |</h1>
+<h1 align="center">| ~ ° I'm Bruno, nice to meet ya! ° ~ |</h1>
 
 <hr>
 
 <div>
-  <p><b>Um jovem desenvolvedor que busca ser full-stack e é apaixonado por desenvolvimento de jogos e pelo universo Pokémon. Também sou criador de conteúdo digital no Youtube!</b></p>
-  <p>📚 Cursando <strong>2° semestre de Engenharia de Software (UDESC)</strong> | Técnico em Desenvolvimento de Sistemas (SENAI) | Fundamentos do C# (Entra21) |</p>
-  <p>💼 Estágio Desenvolvedor Web Front-End (também fuço no back-end e no banco de dados! :D) (estágio) na <strong>Operacional</strong>;</p>
-  <p>⭐️ <b>Estudando:</b> Java, TypeScript, Angular, Ionic e prototipagem de telas (ux/ui) (Figma/Canvas);</p>
+  <p><b>I'm a web developer who love game development and Pokemon universe. I'm also a YouTube content creator!</b></p>
+  <p>📚 Studying <strong>(2° semester) Software Engineer at UDESC</strong> | System Development Technician at (SENAI) | C# Basics at Entra21 |</p>
+  <p>💼 Web developer (Internship) at <strong>Operacional</strong>;</p>
+  <p>⭐️ <b>Studying:</b> Java, TypeScript, Angular, Ionic and prototipagem de telas (ux/ui) (Figma/Canvas);</p>
   <!--<p>⭐️ Futuramente: Lua;</p>-->
-  <p>🟡 <b>Já usei:</b> PHP, Python, JS, Handlebars, Express JS, Sequelize, Nodemon, Node JS, Apache NetBeans, SQL(MySQL);</p>
-  <p>🟠 <b>Usando:</b> Figma, VS Code e VS Studio, Eclipse, CSS3, HTML5, JS, TS, BootStrap, Ionic, Angular, Lua, C#, PLSQL(MySQL);</p>
-  <p>🔴 <b>Outras engines, e/ou programas:</b> MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub e Portugol Studio;</p>
+  <p>🟡 <b>Already used:</b> PHP, Python, Handlebars, Express JS, Sequelize, Nodemon, Lua, Apache NetBeans, SQL(MySQL)and Ionic;</p>
+  <p>🟠 <b>Using:</b> Figma, Node JS, CSS3, HTML5, JS, TS, BootStrap, Angular, C#, PLSQL(MySQL) and Git technologies (Git, GitHub, GitLab and GitHub Desktop;</p>
+  <p>🔴 <b>Others engines, and/or programs:</b> VS Code, VS Studio, Eclipse, MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub and Portugol Studio;</p>
 </div>
 
 <hr>
