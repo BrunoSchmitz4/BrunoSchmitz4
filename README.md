@@ -6,7 +6,7 @@
   <p><b>I'm a Brazilian web developer who loves game development and the Pokemon universe. I'm also a YouTube content creator!</b></p>
   <p>📚 Studying <strong>(2° semester) Software Engineering at UDESC</strong> | System Development Technician at (SENAI) | C# Basics at Entra21 |</p>
   <p>💼 Web developer;</p>
-  <p>⭐️ <b>Studying:</b> Java, TypeScript, Angular, Ionic and prototipagem de telas (ux/ui) (Figma/Canvas);</p>
+  <p>⭐️ <b>Studying:</b> Java, TypeScript, Angular, Ionic, React, TailWindCSS and prototipagem de telas (ux/ui) (Figma/Canvas);</p>
   <!--<p>⭐️ Futuramente: Lua;</p>-->
   <p>🟡 <b>Already used:</b> PHP, Python, Handlebars, Express JS, Sequelize, Nodemon, Lua, Apache NetBeans, SQL(MySQL)and Ionic;</p>
   <p>🟠 <b>Using:</b> Figma, Node JS, CSS3, HTML5, JS, TS, BootStrap, Angular, C#, PLSQL(MySQL) and Git technologies (Git, GitHub, GitLab and GitHub Desktop;</p>
