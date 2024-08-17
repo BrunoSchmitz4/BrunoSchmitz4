@@ -6,11 +6,11 @@
   <p><b>I'm a Brazilian web developer who loves game development and the Pokemon universe. I'm also a YouTube content creator!</b></p>
   <p>📚 Studying <strong>(3° semester) Software Engineering at UDESC</strong> | System Development Technician at (SENAI) | C# Basics at Entra21 |</p>
   <p>💼 Web developer;</p>
-  <p>⭐️ <b>Studying:</b> Java, TypeScript, Angular, Ionic, React, TailWindCSS and prototipagem de telas (ux/ui) (Figma/Canvas);</p>
+  <p>⭐️ <b>Studying:</b> Full-Stack development, requirements engineering, tests and ICH (UX/UI);</p>
   <!--<p>⭐️ Futuramente: Lua;</p>-->
-  <p>🟡 <b>Already used:</b> PHP, Python, Handlebars, Express JS, Sequelize, Nodemon, Lua, Apache NetBeans, SQL(MySQL)and Ionic;</p>
-  <p>🟠 <b>Using:</b> Figma, Node JS, CSS3, HTML5, JS, TS, BootStrap, Angular, C#, PLSQL(MySQL) and Git technologies (Git, GitHub, GitLab and GitHub Desktop;</p>
-  <p>🔴 <b>Others engines, and/or programs:</b> VS Code, VS Studio, Eclipse, MySQLWorkbench, HeidiSQL/Xampp Control, Unity/Unity Hub and Portugol Studio;</p>
+  <p>🟡 <b>Using nowadays:</b> Angular (last release), TypeScript, C#, MySQL and Figma (I know other technologies too! These are just the main ones);</p>
+  <p>🟠 <b>Using:</b> Figma, Node JS, CSS3, HTML5, JS, TS, BootStrap, Angular, C#, Java, PLSQL(MySQL) and Git technologies (Git, GitHub, GitLab and GitHub Desktop;</p>
+  <p>🔴 <b>Otherss:</b> VS Code, VS Studio, Eclipse, MySQLWorkbench, HeidiSQL/Xampp Control, Unity;</p>
 </div>
 
 <hr>
@@ -41,70 +41,6 @@
 </div>
 <!--Some themes: midnight-purple-->
 <hr>
-
-| Carga Horária da faculdade Engenharia de Software |
-<div align="center" display="flex">
-  <div align="start">
-    <ul style="list-style-type: none">
-      <b>Segundo semestre</b>
-      <li>Modelagem de Dados (72h)</li>
-      <li>Comunicação e Metodologia de Pesquisa em Engenharia de Software (72h)</li>
-      <li>Desenvolvimento de Software Orientado a Objetos I (72h)</li>
-      <li>Infraestruturas Computacionais (72h)</li>
-      <li>Requisitos de Software (72h)</li>
-    </ul>
-  </div>
-</div>
-<div align="center" display="flex">
-  <div align="start">
-    <ul style="list-style-type: none">
-      <b>Primeiro semestre ✔️ (Concluído) (Obs: Área de conhecimento: Ciência da Computação & Matemática)</b>
-      <li>Introdução ao Desenvolvimento de Software e Testes (288h)</li>
-      <li>Fundamentos da Engenharia de Software (72h)</li>
-      <li>Tópicos em Matemática Básica e Lógica Matemática (72h)</li>
-      <li>Processos (72h)</li>
-    </ul>
-  </div>
-</div>
-
-| Carga Horária do curso Técnico em Desenvolvimento de Sistemas |
-<div align="center" display="flex">
-  <div align="start">
-    <ul style="list-style-type: none">
-      Primeiro semestre ✔️ (Concluído)
-      <li>Fundamentos da Técnologia da Informação (40h)</li>
-      <li>Lógica de programação (160h)</li>
-      <li>Informática Aplicada (80h)</li>
-      <li>Comunicação Oral Escrita (60h)</li>
-    </ul>
-  </div>
-  <div align="start">
-    <ul>
-      Segundo semestre ✔️ (Concluído)
-      <li>Banco de dados (140h)</li>
-      <li>Programação de Aplicativos (160h)</li>
-    </ul>
-  </div>
-  <div align="start">
-    <ul>
-      Terceiro semestre ✔️ (Concluído)
-      <li>Desenvolvimento de Sistemas (160h)</li>
-      <li>Modelagem de Sistemas (80h)</li>
-      <li>Testes de Sistemas (60h)</li>
-      <li>Implantação de Sistemas (30h)</li>
-      <li>Manutenção de Sistemas (30h)</li>
-    </ul>
-  </div>
-</div>
-
-##
-
-| Carga Horária das Trilhas EAD Entra21 (Concluído)|
-- ✔️ Fundamentos do C# (28h) 
-
-<hr>
-
-<div>
   <h3 align="center">Entre em contato comigo por estes emails: </h3>
   <p>💬 <b>Meu e-mail pessoal:</b> brunosch250@gmail.com;</p>
   <p>💬 <b>Outro e-mail, caso necessário:</b> brunoschdev25@gmail.com;</p>
