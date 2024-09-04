@@ -10,7 +10,7 @@
   <!--<p>⭐️ Futuramente: Lua;</p>-->
   <p>🟡 <b>Using nowadays:</b> Angular (last release), TypeScript, C#, MySQL and Figma (I know other technologies too! These are just the main ones);</p>
   <p>🟠 <b>Using:</b> Figma, Node JS, CSS3, HTML5, JS, TS, BootStrap, Angular, C#, Java, PLSQL(MySQL) and Git technologies (Git, GitHub, GitLab and GitHub Desktop;</p>
-  <p>🔴 <b>Otherss:</b> VS Code, VS Studio, Eclipse, MySQLWorkbench, HeidiSQL/Xampp Control, Unity;</p>
+  <p>🔴 <b>Others:</b> VS Code, VS Studio, Eclipse, MySQLWorkbench, HeidiSQL/Xampp Control, Unity;</p>
 </div>
 
 <hr>
