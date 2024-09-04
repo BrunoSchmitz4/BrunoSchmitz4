@@ -3,7 +3,7 @@
 <hr>
 
 <div>
-  <p><b>I'm a Brazilian web developer who loves game development and the Pokemon universe. I'm also a YouTube content creator!</b></p>
+  <p><b>I'm a Brazilian web developer who loves game development and the Pokemon universe. I'm also a programming teacher and YouTube content creator!</b></p>
   <p>📚 Studying <strong>(3° semester) Software Engineering at UDESC</strong> | System Development Technician at (SENAI) | C# Basics at Entra21 |</p>
   <p>💼 Web developer;</p>
   <p>⭐️ <b>Studying:</b> Full-Stack development, requirements engineering, tests and ICH (UX/UI);</p>
