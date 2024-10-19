@@ -4,13 +4,12 @@
 
 <div>
   <p><b>I'm a Brazilian web developer who also loves game development and the Pokemon universe. I'm also a programming teacher and YouTube content creator!</b></p>
-  <p>📚 Studying <strong>(3° semester) Software Engineering at UDESC</strong> | System Development Technician at SENAI (concluded) | C# Basics at Entra21 (concluded) |</p>
+  <p>🏫 Academic qualifications: <strong>(3° semester) Software Engineering at UDESC</strong> | System Development Technician at SENAI (concluded) | C# Basics at Entra21 (concluded) |</p>
   <p>💼 Web developer;</p>
-  <p>⭐️ <b>Studying:</b> Full-Stack development, game development, requirements engineering and ICH (UX/UI);</p>
-  <!--<p>⭐️ Futuramente: Lua;</p>-->
-  <p>🟡 <b>Using nowadays:</b> Angular (last release), TypeScript, C#, MySQL and Figma (I know other technologies too! These are just the main ones);</p>
-  <p>🟠 <b>Using:</b> Figma, Node JS, CSS3, HTML5, JS, TS, BootStrap, Angular, C#, Java, PLSQL(MySQL) and Git technologies (Git, GitHub, GitLab and GitHub Desktop;</p>
-  <p>🔴 <b>Others:</b> VS Code, VS Studio, Eclipse, MySQLWorkbench, HeidiSQL/Xampp Control, Unity;</p>
+  <p>📚 <b>Studying:</b> Full-Stack development, game development, requirements engineering and IHC (UX/UI);</p>
+  <p>🖥️ <b>Using nowadays:</b> Angular (last release), TypeScript, C#, MySQL and Figma (These are just the main ones);</p>
+  <p>🔄 <b>Already Used:</b> Figma, Node JS, CSS3, HTML5, JS, TS, BootStrap, Angular, C#, Java, PLSQL(MySQL) and Git technologies (Git, GitHub, GitLab and GitHub Desktop;</p>
+  <p>⚙️ <b>IDEs, Game Engines & Others:</b> VS Code, Visual Studio, Eclipse, MySQLWorkbench, HeidiSQL, Xampp Control, Unity;</p>
 </div>
 
 <hr>
@@ -44,8 +43,8 @@
 <!--Some themes: midnight-purple-->
 <hr>
   <h3 align="center">Entre em contato comigo por estes emails: </h3>
-  <p>💬 <b>Meu e-mail pessoal:</b> brunosch250@gmail.com;</p>
-  <p>💬 <b>Outro e-mail, caso necessário:</b> brunoschdev25@gmail.com;</p>
+  <p>✉️ <b>Main personal email</b> brunosch250@gmail.com;</p>
+  <p>✉️ <b>Second personal email</b> brunoschdev25@gmail.com;</p>
 
 ##
   
