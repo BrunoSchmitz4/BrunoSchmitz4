@@ -43,8 +43,8 @@
 <!--Some themes: midnight-purple-->
 <hr>
   <h3 align="center">Entre em contato comigo por estes emails: </h3>
-  <p>✉️ <b>Main personal email</b> brunosch250@gmail.com;</p>
-  <p>✉️ <b>Second personal email</b> brunoschdev25@gmail.com;</p>
+  <p>✉️ <b>Main personal email:</b> brunosch250@gmail.com;</p>
+  <p>✉️ <b>Second personal email:</b> brunoschdev25@gmail.com;</p>
 
 ##
   
