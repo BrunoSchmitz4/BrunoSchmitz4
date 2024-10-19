@@ -43,15 +43,12 @@
 <!--Some themes: midnight-purple-->
 <hr>
   <h3 align="center">Entre em contato comigo por estes emails: </h3>
-  <p>✉️ <b>Main personal email:</b> brunosch250@gmail.com;</p>
-  <p>✉️ <b>Second personal email:</b> brunoschdev25@gmail.com;</p>
-
-##
-  
-  <div align= "center">
+    <div align= "center">
     <!--<a href=https://www.youtube.com/channel/UClCYZrKIBKOG5mvJrgtXoeA target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
-    <a href="mailto:brunosch250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    ✉️ <b>Main personal email:</b><a href="mailto:brunosch250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><p>brunosch250@gmail.com;</p></a>
+    ✉️ <b>Other personal email:</b><a href="mailto:brunoschdev25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><p>brunoschdev25@gmail.com;</p></a>
   </div>
+  
 </div>
 
 <hr>
