@@ -6,9 +6,9 @@
   <p><b>I'm a Brazilian web developer who also loves game development and the Pokemon universe. I'm also a programming teacher and YouTube content creator!</b></p>
   <p>🏫 Academic qualifications: <strong>(4° semester) Software Engineering at UDESC</strong> | System Development Technician at SENAI (concluded) | C# Basics at Entra21 (concluded) |</p>
   <p>💼 Web developer;</p>
-  <p>📚 <b>Studying:</b> Full-Stack development, game development, requirements engineering and IHC (UX/UI);</p>
-  <p>🖥️ <b>Using nowadays:</b> Angular (last release), TypeScript, C#, MySQL and Figma (These are just the main ones);</p>
-  <p>🔄 <b>Already Used:</b> Figma, Node JS, CSS3, HTML5, JS, TS, BootStrap, Angular, C#, Java, PLSQL(MySQL) and Git technologies (Git, GitHub, GitLab and GitHub Desktop;</p>
+  <p>📚 <b>Studying:</b> Full-Stack web development and game development</p>
+  <p>🖥️ <b>Using nowadays:</b> React, TypeScript, Javascript, C#, MySQL and Figma (These are just the main ones);</p>
+  <p>🔄 <b>Already Used:</b> Node JS, CSS3, HTML5, JS, TS, BootStrap, Angular, Java, PLSQL(MySQL) and Git technologies (Git, GitHub, GitLab and GitHub Desktop;</p>
   <p>⚙️ <b>IDEs, Game Engines & Others:</b> VS Code, Visual Studio, Eclipse, MySQLWorkbench, HeidiSQL, Xampp Control, Unity;</p>
 </div>
 
